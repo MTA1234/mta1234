@@ -14,8 +14,8 @@ pip3 install pyTelegramBotAPI
 
 # run
 <pre><code>
-git clone https://github.com/MTA1234/MTA1234  <br />
-cd MTA1234  <br />
-python3 MTA1234.py
+git clone https://github.com/mta1234  <br />
+cd mta1234  <br />
+python3 mta1234.py
 </code></pre>
 

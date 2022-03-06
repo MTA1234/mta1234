@@ -1,4 +1,4 @@
-# MTA1234
+# mta1234
 <img src='mrlocation_v2.jpg' />
 
 get target location by link

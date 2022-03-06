@@ -1,4 +1,4 @@
-# Mr.location
+# MTA1234
 <img src='mrlocation_v2.jpg' />
 
 get target location by link
@@ -14,8 +14,8 @@ pip3 install pyTelegramBotAPI
 
 # run
 <pre><code>
-git clone https://github.com/mr0sploit/mrlocation  <br />
-cd mrlocation  <br />
-python3 mrlocation.py
+git clone https://github.com/MTA1234/MTA1234  <br />
+cd MTA1234  <br />
+python3 MTA1234.py
 </code></pre>
 
